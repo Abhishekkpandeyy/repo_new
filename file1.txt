@@ -1,1 +1,2 @@
 Hello this is new file and I had added this to test reset commands
+Adding another line to check git reset command
